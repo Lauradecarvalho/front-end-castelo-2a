@@ -1,4 +1,4 @@
-# Bem vindos a Aula de Front-End 1°Trimestre.
+# Bem vindos a Aula de Front-End 2 Trimestre.
 Oie! meu nome é: ***Laura***
 
 Meu e-mail pessoal é: Laurinhaa.Carvalho1703@gmail.com
